@@ -7,7 +7,7 @@ defmodule Excamp.MixProject do
       # \ <section:project>
       app: :excamp,
       version: "0.0.1",
-      elixir: "~> 1.10",
+      elixir: "~> 1.5",
       name: "excamp",
       description: "excamp",
       source_url: "https://github.com/ponyatov/metaL/tree/master/excamp",
